@@ -29,10 +29,15 @@ body{
 .digit{
     font-size: 150px;
     font-weight:bold;
+    width: 40px;
+    height: 40px;
+    background-color: #259eef;
+    border-radius: 10%;
+    padding: 5px;
 }
 
 .txt{
-    font-size: 180px;
+    font-size: 100px;
      font-weight: bold;
 }
 
@@ -84,12 +89,12 @@ body{
     }
 
     .digit{
-        font-size: 100px;
+        font-size: 80px;
         font-weight:bold;
     }
 
     .txt{
-        font-size: 90px;
+        font-size: 80px;
     }
 }
 
@@ -103,12 +108,12 @@ body{
     }
 
     .digit{
-        font-size: 70px;
+        font-size: 60px;
         font-weight:bold;
     }
 
     .txt{
-        font-size: 70px;
+        font-size: 50px;
     }
 
 
@@ -122,9 +127,10 @@ body{
         }
     
         .digit{
-            font-size: 50px;
+            font-size: 40px;
             font-weight:bold;
         }
+        
     
   .btn{
     margin-bottom: 15px;
